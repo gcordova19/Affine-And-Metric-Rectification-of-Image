@@ -1,0 +1,12 @@
+Language used: MATLAB
+
+Contents:
+1.AFFINE AND METRIC RECTIFICATION OF AN IMAGE PDF FILE: Contains detail analysis, algortihm implementation, and observations.
+2.img1, img2 and img3: Input image for program.
+3.affine_rectification: Do affine rectification of an image.
+4.metric_rectification: Do metric rectification of an affined image.
+5.Main: Main body of whole program from where we run our program.
+
+Sources:
+1.Multiview Geometry Book.
+2.Image Rectification: Remove Projective and Affine Distortions - by Rong Zhang
